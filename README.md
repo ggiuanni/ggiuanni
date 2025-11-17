@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ggiuanni
+<!---
 - 👀 I’m interested in **Digital Creativity**
 - 🌱 I’m currently learning **Game and 3D Graphics Programming**
-<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
